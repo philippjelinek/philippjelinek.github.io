@@ -1,10 +1,10 @@
 ---
-title: "360.016 Programming 1 "
+title: "360.049 Introduction to Scientific Programming"
 collection: teaching
 type: "Bachelor course"
-permalink: /teaching/2023-prog1
-venue: "Institute for Microelectronics at TU Wien "
-date: 2023-03-01
+permalink: /teaching/2023W-wissprog1
+venue: "Institute for Microelectronics at TU Wien"
+date: 2023-10-01
 location: "Vienna, Austria"
 ---
 
