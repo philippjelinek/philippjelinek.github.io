@@ -7,14 +7,21 @@ venue: "Institute for Microelectronics at TU Wien"
 date: 2024-10-01
 location: "Vienna, Austria"
 ---
+Teaching Assistant (TA) responsible for supporting the exercise part of the course in cooperation with fellow tutors. The exercise part consists of a mandatory introductory exercise cycle followed by 4 graded exercises.
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Duties included:
+- Supervising the entry test 
+- Assisting students during the elaboration of the lab assignments
+- Conducting the submission interviews in the lab
 
-Heading 1
+
+Subject of the course
 ======
+The course content covers the following aspects of scientific programming in Python:
 
-Heading 2
-======
-
-Heading 3
-======
+- Basic language features: variables and data types, operators, conditional statements, functions, classes, data structures
+- Embedding and using (external) libraries/packages
+- Working with vectors and matrices
+- Writing and reading files
+- Visualizing data and results
+- Solving systems of equations numerically

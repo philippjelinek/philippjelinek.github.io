@@ -11,7 +11,7 @@ Teaching Assistant (TA) responsible for supporting the exercise part of the cour
 
 Duties included:
 - Supervising the entry test 
-- Assisting students during the elaboration of the lab assignments (Ausarbeitung der Laboraufgaben)
+- Assisting students during the elaboration of the lab assignments
 - Conducting the submission interviews in the lab
 
 
